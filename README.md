@@ -7,5 +7,4 @@ This visualisation looks at the Eurovision winners by year, from 1970 to this ye
 ![](eurovision_winners.png)
 
 This visualisation looks at which country has the best Eurovision win ratio!
-![](top_countries.png){width="60%" height="50%"}
-
+<img src="top_countries.png" width="100" height="100">
